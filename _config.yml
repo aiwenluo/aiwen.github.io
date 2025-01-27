@@ -7,10 +7,10 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "zh-CN"
-title                    : "Ai-Wen Luo/ Academic Homepage"
+locale                   : "en-US"
+title                    : "Ai Wen Luo/ Academic Homepage"
 title_separator          : "-"
-name                     : &name "Ai-Wen Luo"
+name                     : &name "Aiwen Luo"
 description              : &description "Luo's Academic Homepage"
 url                      : https://aiwenluo.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Dr. Aiwen Luo"
   pronouns         : "she" # example: "she/her"  
-  bio              : "Leturer at Jinan University"
+  bio              : "Lecturer at Jinan University"
   location         : "Guangzhou, China"
   employer         : "Jinan University"
   uri              : "https://faculty.jnu.edu.cn/xxkxjsxy/law/list.htm" # URL
@@ -49,7 +49,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -81,7 +81,7 @@ publication_category:
   manuscripts:
     title: 'Journal Articles'    
   conferences:
-    title: 'Conference Papers'
+    title: 'Conference Proceedings'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
