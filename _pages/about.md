@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "DeepSight & CircuitMind Lab (DSCMLab)"
+title: "CircuitMind DeepSight Lab (CDLab)"
 author_profile: true
 redirect_from: 
   - /about/
